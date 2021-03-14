@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (dowhile.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  dowhile1.cpp
+C:\Users\кот\Desktop\gith\lab3\dowhile\dowhile1.cpp(22,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  dowhile.vcxproj -> C:\Users\кот\Desktop\gith\lab3\Debug\1dowhile.exe

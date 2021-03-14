@@ -1,0 +1,3 @@
+﻿  4dowhile.cpp
+C:\Users\кот\Desktop\gith\lab3\4dowhile\4dowhile.cpp(19,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  4dowhile.vcxproj -> C:\Users\кот\Desktop\gith\lab3\Debug\4dowhile.exe

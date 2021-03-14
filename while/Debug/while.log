@@ -1,0 +1,3 @@
+﻿  while.cpp
+C:\Users\кот\Desktop\gith\lab3\while\while.cpp(20,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  while.vcxproj -> C:\Users\кот\Desktop\gith\lab3\Debug\while.exe
